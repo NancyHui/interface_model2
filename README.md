@@ -1,3 +1,4 @@
+https://www.cnblogs.com/shapeL/p/9188495.html
 # python3_interface
 
 （1）case：存放测试用例数据的，比如请求类型get/post、请求url、请求header、请求数据等；
